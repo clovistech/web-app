@@ -97,15 +97,15 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	        http://44.202.6.75:8081/repository/td-web-app-releases/
-	     <url><http://44.202.6.75:8081/repository/wellfargo-bts-releases/</url>
+		    <url>http://44.202.6.75:8081/repository/td-web-app-releases/</url>
+	   <!--  <url><http://44.202.6.75:8081/repository/wellfargo-bts-releases/</url> -->
 	    </repository>
 	    	
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      http://44.202.6.75:8081/repository/td-web-app-snapshots/
-	      <url>http://44.202.6.75:8081/repository/wellfargo-bts-snapshot/</url>
+	     <url>http://44.202.6.75:8081/repository/td-web-app-snapshots/</url>
+	   <!--   <url>http://44.202.6.75:8081/repository/wellfargo-bts-snapshot/</url> -->
 	    </snapshotRepository>
 	    
 		    
